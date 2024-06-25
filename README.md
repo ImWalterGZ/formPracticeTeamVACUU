@@ -1,2 +1,2 @@
 # formPracticeTeamVACUU
-Mi form está dentro de la carpeta Walter GZ
+https://imwaltergz.github.io/formPracticeTeamVACUU/
